@@ -1,0 +1,3977 @@
+[
+  {
+    "country_code_alpha_2": "AD",
+    "country_code_alpha_3": "AND",
+    "name": "Andorre",
+    "determiner": "l'",
+    "long_name": "la Principauté d'Andorre",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ca",
+        "language_code_alpha_3": "cat",
+        "local_short_name": "Andorra"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AE",
+    "country_code_alpha_3": "ARE",
+    "name": "Émirats arabes unis",
+    "determiner": "les",
+    "long_name": "les Émirats arabes unis",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Imārāt"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AF",
+    "country_code_alpha_3": "AFG",
+    "name": "Afghanistan",
+    "determiner": "l'",
+    "long_name": "la République islamique d'Afghanistan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fa",
+        "language_code_alpha_3": "fas",
+        "local_short_name": "Afghānistān"
+      },
+      {
+        "language_code_alpha_2": "ps",
+        "language_code_alpha_3": "pus",
+        "local_short_name": "Afghānistān"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AG",
+    "country_code_alpha_3": "ATG",
+    "name": "Antigua-et-Barbuda",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Antigua and Barbuda"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AI",
+    "country_code_alpha_3": "AIA",
+    "name": "Anguilla",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Anguilla"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AL",
+    "country_code_alpha_3": "ALB",
+    "name": "Albanie",
+    "determiner": "l'",
+    "long_name": "la République d'Albanie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "sq",
+        "language_code_alpha_3": "sqi",
+        "local_short_name": "Shqipëria; Shqipëri"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AM",
+    "country_code_alpha_3": "ARM",
+    "name": "Arménie",
+    "determiner": "l'",
+    "long_name": "la République d'Arménie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "hy",
+        "language_code_alpha_3": "hye",
+        "local_short_name": "Hayastan"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AO",
+    "country_code_alpha_3": "AGO",
+    "name": "Angola",
+    "determiner": "l'",
+    "long_name": "la République d'Angola",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Angola"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AQ",
+    "country_code_alpha_3": "ATA",
+    "name": "Antarctique",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": null
+  },
+  {
+    "country_code_alpha_2": "AR",
+    "country_code_alpha_3": "ARG",
+    "name": "Argentine",
+    "determiner": "l'",
+    "long_name": "la République argentine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Argentina (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AS",
+    "country_code_alpha_3": "ASM",
+    "name": "Samoa américaines",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "American Samoa"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AT",
+    "country_code_alpha_3": "AUT",
+    "name": "Autriche",
+    "determiner": "l'",
+    "long_name": "la République d'Autriche",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "de",
+        "language_code_alpha_3": "deu",
+        "local_short_name": "Österreich"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AU",
+    "country_code_alpha_3": "AUS",
+    "name": "Australie",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Australia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AW",
+    "country_code_alpha_3": "ABW",
+    "name": "Aruba",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "nl",
+        "language_code_alpha_3": "nld",
+        "local_short_name": "Aruba"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "pap",
+        "local_short_name": "Aruba"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AX",
+    "country_code_alpha_3": "ALA",
+    "name": "Åland, Îles",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "sv",
+        "language_code_alpha_3": "swe",
+        "local_short_name": "Åland"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "AZ",
+    "country_code_alpha_3": "AZE",
+    "name": "Azerbaïdjan",
+    "determiner": "l'",
+    "long_name": "la République d'Azerbaïdjan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "az",
+        "language_code_alpha_3": "aze",
+        "local_short_name": "Azərbaycan"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BA",
+    "country_code_alpha_3": "BIH",
+    "name": "Bosnie-Herzégovine",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "bs",
+        "language_code_alpha_3": "bos",
+        "local_short_name": "Bosna i Hercegovina"
+      },
+      {
+        "language_code_alpha_2": "hr",
+        "language_code_alpha_3": "hrv",
+        "local_short_name": "Bosna i Hercegovina"
+      },
+      {
+        "language_code_alpha_2": "sr",
+        "language_code_alpha_3": "srp",
+        "local_short_name": "Bosna i Hercegovina"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BB",
+    "country_code_alpha_3": "BRB",
+    "name": "Barbade",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Barbados"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BD",
+    "country_code_alpha_3": "BGD",
+    "name": "Bangladesh",
+    "determiner": "le",
+    "long_name": "la République populaire du Bangladesh",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "bn",
+        "language_code_alpha_3": "ben",
+        "local_short_name": "Bāṁlādesh"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BE",
+    "country_code_alpha_3": "BEL",
+    "name": "Belgique",
+    "determiner": "la",
+    "long_name": "le Royaume de Belgique",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "de",
+        "language_code_alpha_3": "deu",
+        "local_short_name": "Belgien"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Belgique (la)"
+      },
+      {
+        "language_code_alpha_2": "nl",
+        "language_code_alpha_3": "nld",
+        "local_short_name": "België"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BF",
+    "country_code_alpha_3": "BFA",
+    "name": "Burkina Faso",
+    "determiner": "le",
+    "long_name": "le Burkina Faso",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Burkina Faso (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BG",
+    "country_code_alpha_3": "BGR",
+    "name": "Bulgarie",
+    "determiner": "la",
+    "long_name": "la République de Bulgarie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "bg",
+        "language_code_alpha_3": "bul",
+        "local_short_name": "Bulgaria"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BH",
+    "country_code_alpha_3": "BHR",
+    "name": "Bahreïn",
+    "determiner": null,
+    "long_name": "le Royaume de Bahreïn",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Baḩrayn"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BI",
+    "country_code_alpha_3": "BDI",
+    "name": "Burundi",
+    "determiner": "le",
+    "long_name": "la République du Burundi",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Burundi (le)"
+      },
+      {
+        "language_code_alpha_2": "rn",
+        "language_code_alpha_3": "run",
+        "local_short_name": "Burundi"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BJ",
+    "country_code_alpha_3": "BEN",
+    "name": "Bénin",
+    "determiner": "le",
+    "long_name": "la République du Bénin",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Bénin (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BL",
+    "country_code_alpha_3": "BLM",
+    "name": "Saint-Barthélemy",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Saint-Barthélemy"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BM",
+    "country_code_alpha_3": "BMU",
+    "name": "Bermudes",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Bermuda"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BN",
+    "country_code_alpha_3": "BRN",
+    "name": "Brunéi Darussalam",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Brunei Darussalam"
+      },
+      {
+        "language_code_alpha_2": "ms",
+        "language_code_alpha_3": "msa",
+        "local_short_name": "Negara Brunei Darussalam"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BO",
+    "country_code_alpha_3": "BOL",
+    "name": "Bolivie (État plurinational de)",
+    "determiner": "l'",
+    "long_name": "l'État plurinational de Bolivie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Bolivia,  Estado Plurinacional de"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BQ",
+    "country_code_alpha_3": "BES",
+    "name": "Bonaire, Saint-Eustache et Saba",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Bonaire, Sint Eustatius and Saba"
+      },
+      {
+        "language_code_alpha_2": "nl",
+        "language_code_alpha_3": "nld",
+        "local_short_name": "Bonaire, Sint Eustatius en Saba"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "pap",
+        "local_short_name": "Boneiru, Sint Eustatius y Saba"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BR",
+    "country_code_alpha_3": "BRA",
+    "name": "Brésil",
+    "determiner": "le",
+    "long_name": "la République fédérative du Brésil",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Brasil (o)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BS",
+    "country_code_alpha_3": "BHS",
+    "name": "Bahamas",
+    "determiner": "les",
+    "long_name": "le Commonwealth des Bahamas",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Bahamas (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BT",
+    "country_code_alpha_3": "BTN",
+    "name": "Bhoutan",
+    "determiner": "le",
+    "long_name": "le Royaume du Bhoutan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "dz",
+        "language_code_alpha_3": "dzo",
+        "local_short_name": "Druk-Yul"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BV",
+    "country_code_alpha_3": "BVT",
+    "name": "Bouvet, Île",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "nb",
+        "language_code_alpha_3": "nob",
+        "local_short_name": "Bouvetøya"
+      },
+      {
+        "language_code_alpha_2": "nn",
+        "language_code_alpha_3": "nno",
+        "local_short_name": "Bouvetøya"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BW",
+    "country_code_alpha_3": "BWA",
+    "name": "Botswana",
+    "determiner": "le",
+    "long_name": "la République du Botswana",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Botswana"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BY",
+    "country_code_alpha_3": "BLR",
+    "name": "Bélarus",
+    "determiner": "le",
+    "long_name": "la République du Bélarus",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "be",
+        "language_code_alpha_3": "bel",
+        "local_short_name": "Bielaruś"
+      },
+      {
+        "language_code_alpha_2": "ru",
+        "language_code_alpha_3": "rus",
+        "local_short_name": "Belarus'"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "BZ",
+    "country_code_alpha_3": "BLZ",
+    "name": "Belize",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Belize"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CA",
+    "country_code_alpha_3": "CAN",
+    "name": "Canada",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Canada"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Canada (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CC",
+    "country_code_alpha_3": "CCK",
+    "name": "Cocos (Keeling), Îles",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Cocos (Keeling) Islands (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CD",
+    "country_code_alpha_3": "COD",
+    "name": "Congo (République démocratique du)",
+    "determiner": "la",
+    "long_name": "la République démocratique du Congo",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Congo (la République démocratique du)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CF",
+    "country_code_alpha_3": "CAF",
+    "name": "République centrafricaine",
+    "determiner": "la",
+    "long_name": "la République centrafricaine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "République centrafricaine (la)"
+      },
+      {
+        "language_code_alpha_2": "sg",
+        "language_code_alpha_3": "sag",
+        "local_short_name": "Ködörösêse tî Bêafrîka"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CG",
+    "country_code_alpha_3": "COG",
+    "name": "Congo",
+    "determiner": "le",
+    "long_name": "la République du Congo",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Congo (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CH",
+    "country_code_alpha_3": "CHE",
+    "name": "Suisse",
+    "determiner": "la",
+    "long_name": "la Confédération suisse",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "de",
+        "language_code_alpha_3": "deu",
+        "local_short_name": "Schweiz (die)"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Suisse (la)"
+      },
+      {
+        "language_code_alpha_2": "it",
+        "language_code_alpha_3": "ita",
+        "local_short_name": "Svizzera (la)"
+      },
+      {
+        "language_code_alpha_2": "rm",
+        "language_code_alpha_3": "roh",
+        "local_short_name": "Svizra (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CI",
+    "country_code_alpha_3": "CIV",
+    "name": "Côte d'Ivoire",
+    "determiner": "la",
+    "long_name": "la Republic de Côte d'Ivoire",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Côte d'Ivoire (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CK",
+    "country_code_alpha_3": "COK",
+    "name": "Cook, Îles",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Cook Islands (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CL",
+    "country_code_alpha_3": "CHL",
+    "name": "Chili",
+    "determiner": "le",
+    "long_name": "la République du Chili",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Chile"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CM",
+    "country_code_alpha_3": "CMR",
+    "name": "Cameroun",
+    "determiner": "le",
+    "long_name": "la République du Cameroun",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Cameroon"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Cameroun (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CN",
+    "country_code_alpha_3": "CHN",
+    "name": "Chine",
+    "determiner": "la",
+    "long_name": "la République populaire de Chine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "zh",
+        "language_code_alpha_3": "zho",
+        "local_short_name": "Zhongguo"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CO",
+    "country_code_alpha_3": "COL",
+    "name": "Colombie",
+    "determiner": "la",
+    "long_name": "la République de Colombie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Colombia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CR",
+    "country_code_alpha_3": "CRI",
+    "name": "Costa Rica",
+    "determiner": "le",
+    "long_name": "la République du Costa Rica",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Costa Rica"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CU",
+    "country_code_alpha_3": "CUB",
+    "name": "Cuba",
+    "determiner": null,
+    "long_name": "la République de Cuba",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Cuba"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CV",
+    "country_code_alpha_3": "CPV",
+    "name": "Cabo Verde",
+    "determiner": null,
+    "long_name": "la République du Cabo Verde",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Cabo Verde"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CW",
+    "country_code_alpha_3": "CUW",
+    "name": "Curaçao",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Curaçao"
+      },
+      {
+        "language_code_alpha_2": "nl",
+        "language_code_alpha_3": "nld",
+        "local_short_name": "Curaçao"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "pap",
+        "local_short_name": "Kòrsou"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CX",
+    "country_code_alpha_3": "CXR",
+    "name": "Christmas, Île",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Christmas Island"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CY",
+    "country_code_alpha_3": "CYP",
+    "name": "Chypre",
+    "determiner": null,
+    "long_name": "la République de Chypre",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "el",
+        "language_code_alpha_3": "ell",
+        "local_short_name": "Kýpros"
+      },
+      {
+        "language_code_alpha_2": "tr",
+        "language_code_alpha_3": "tur",
+        "local_short_name": "Kıbrıs"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "CZ",
+    "country_code_alpha_3": "CZE",
+    "name": "Tchéquie",
+    "determiner": "la",
+    "long_name": "la République tchèque",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "cs",
+        "language_code_alpha_3": "ces",
+        "local_short_name": "Česko"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "DE",
+    "country_code_alpha_3": "DEU",
+    "name": "Allemagne",
+    "determiner": "l'",
+    "long_name": "la République fédérale d'Allemagne",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "de",
+        "language_code_alpha_3": "deu",
+        "local_short_name": "Deutschland"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "DJ",
+    "country_code_alpha_3": "DJI",
+    "name": "Djibouti",
+    "determiner": null,
+    "long_name": "la République de Djibouti",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Jībūtī"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Djibouti"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "DK",
+    "country_code_alpha_3": "DNK",
+    "name": "Danemark",
+    "determiner": "le",
+    "long_name": "le Royaume du Danemark",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "da",
+        "language_code_alpha_3": "dan",
+        "local_short_name": "Danmark"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "DM",
+    "country_code_alpha_3": "DMA",
+    "name": "Dominique",
+    "determiner": "la",
+    "long_name": "le Commonwealth de Dominique",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Dominica"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "DO",
+    "country_code_alpha_3": "DOM",
+    "name": "dominicaine (République)",
+    "determiner": "la",
+    "long_name": "la République dominicaine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "República Dominicana (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "DZ",
+    "country_code_alpha_3": "DZA",
+    "name": "Algérie",
+    "determiner": "l'",
+    "long_name": "la République algérienne démocratique et populaire",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Jazā'ir"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "EC",
+    "country_code_alpha_3": "ECU",
+    "name": "Équateur",
+    "determiner": "l'",
+    "long_name": "la République d'Équateur",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Ecuador (el)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "EE",
+    "country_code_alpha_3": "EST",
+    "name": "Estonie",
+    "determiner": "l'",
+    "long_name": "la République d'Estonie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "et",
+        "language_code_alpha_3": "est",
+        "local_short_name": "Eesti"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "EG",
+    "country_code_alpha_3": "EGY",
+    "name": "Égypte",
+    "determiner": "l'",
+    "long_name": "la République arabe d'Égypte",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Mişr"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "EH",
+    "country_code_alpha_3": "ESH",
+    "name": "Sahara occidental",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Aş Şaḩrā' al Gharbīyah"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ER",
+    "country_code_alpha_3": "ERI",
+    "name": "Érythrée",
+    "determiner": "l'",
+    "long_name": "l'État d'Érythrée",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Eritrea"
+      },
+      {
+        "language_code_alpha_2": "ti",
+        "language_code_alpha_3": "tir",
+        "local_short_name": "Iertra"
+      },
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Irītrīyā"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ES",
+    "country_code_alpha_3": "ESP",
+    "name": "Espagne",
+    "determiner": "l'",
+    "long_name": "le Royaume d'Espagne",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "España"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ET",
+    "country_code_alpha_3": "ETH",
+    "name": "Éthiopie",
+    "determiner": "l'",
+    "long_name": "la République fédérale démocratique d'Éthiopie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "am",
+        "language_code_alpha_3": "amh",
+        "local_short_name": "Ītyop'iya"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "FI",
+    "country_code_alpha_3": "FIN",
+    "name": "Finlande",
+    "determiner": "la",
+    "long_name": "la République de Finlande",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fi",
+        "language_code_alpha_3": "fin",
+        "local_short_name": "Suomi"
+      },
+      {
+        "language_code_alpha_2": "sv",
+        "language_code_alpha_3": "swe",
+        "local_short_name": "Finland"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "FJ",
+    "country_code_alpha_3": "FJI",
+    "name": "Fidji",
+    "determiner": "les",
+    "long_name": "la République des Fidji",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Fiji"
+      },
+      {
+        "language_code_alpha_2": "fj",
+        "language_code_alpha_3": "fij",
+        "local_short_name": "Viti"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "FK",
+    "country_code_alpha_3": "FLK",
+    "name": "Falkland (Malouines), Îles",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Falkland Islands (the) [Malvinas]"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "FM",
+    "country_code_alpha_3": "FSM",
+    "name": "Micronésie (États fédérés de)",
+    "determiner": "les",
+    "long_name": "les États fédérés de Micronésie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Micronesia (Federated States of)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "FO",
+    "country_code_alpha_3": "FRO",
+    "name": "Féroé, Îles",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "da",
+        "language_code_alpha_3": "dan",
+        "local_short_name": "Færøerne"
+      },
+      {
+        "language_code_alpha_2": "fo",
+        "language_code_alpha_3": "fao",
+        "local_short_name": "Føroyar"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "FR",
+    "country_code_alpha_3": "FRA",
+    "name": "France",
+    "determiner": "la",
+    "long_name": "la République française",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "France (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GA",
+    "country_code_alpha_3": "GAB",
+    "name": "Gabon",
+    "determiner": "le",
+    "long_name": "la République gabonaise",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Gabon (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GB",
+    "country_code_alpha_3": "GBR",
+    "name": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+    "determiner": "le",
+    "long_name": "le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "United Kingdom of Great Britain and Northern Ireland (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GD",
+    "country_code_alpha_3": "GRD",
+    "name": "Grenade",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Grenada"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GE",
+    "country_code_alpha_3": "GEO",
+    "name": "Géorgie",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ka",
+        "language_code_alpha_3": "kat",
+        "local_short_name": "Sakartvelo"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GF",
+    "country_code_alpha_3": "GUF",
+    "name": "Guyane française",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Guyane française (la&nbsp;)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GG",
+    "country_code_alpha_3": "GGY",
+    "name": "Guernesey",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Guernsey"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Guernesey"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GH",
+    "country_code_alpha_3": "GHA",
+    "name": "Ghana",
+    "determiner": "le",
+    "long_name": "la République du Ghana",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Ghana"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GI",
+    "country_code_alpha_3": "GIB",
+    "name": "Gibraltar",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Gibraltar"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GL",
+    "country_code_alpha_3": "GRL",
+    "name": "Groenland",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "da",
+        "language_code_alpha_3": "dan",
+        "local_short_name": "Grønland"
+      },
+      {
+        "language_code_alpha_2": "kl",
+        "language_code_alpha_3": "kal",
+        "local_short_name": "Kalaallit Nunaat"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GM",
+    "country_code_alpha_3": "GMB",
+    "name": "Gambie",
+    "determiner": "la",
+    "long_name": "la République de Gambie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Gambia (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GN",
+    "country_code_alpha_3": "GIN",
+    "name": "Guinée",
+    "determiner": "la",
+    "long_name": "la République de Guinée",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Guinée (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GP",
+    "country_code_alpha_3": "GLP",
+    "name": "Guadeloupe",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Guadeloupe (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GQ",
+    "country_code_alpha_3": "GNQ",
+    "name": "Guinée équatoriale",
+    "determiner": "la",
+    "long_name": "la République de Guinée équatoriale",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Guinea Ecuatorial"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Guinée équatoriale (la)"
+      },
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Guiné Equatorial (a)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GR",
+    "country_code_alpha_3": "GRC",
+    "name": "Grèce",
+    "determiner": "la",
+    "long_name": "la République hellénique",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "el",
+        "language_code_alpha_3": "ell",
+        "local_short_name": "Elláda"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GS",
+    "country_code_alpha_3": "SGS",
+    "name": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "South Georgia and the South Sandwich Islands"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GT",
+    "country_code_alpha_3": "GTM",
+    "name": "Guatemala",
+    "determiner": "le",
+    "long_name": "la République du Guatemala",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Guatemala"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GU",
+    "country_code_alpha_3": "GUM",
+    "name": "Guam",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Guam"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GW",
+    "country_code_alpha_3": "GNB",
+    "name": "Guinée-Bissau",
+    "determiner": "la",
+    "long_name": "la République de Guinée-Bissau",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Guiné-Bissau (a)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "GY",
+    "country_code_alpha_3": "GUY",
+    "name": "Guyana",
+    "determiner": "le",
+    "long_name": "la République du Guyana",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Guyana"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "HK",
+    "country_code_alpha_3": "HKG",
+    "name": "Hong Kong",
+    "determiner": null,
+    "long_name": "Hong Kong, Région administrative spéciale de Chine (la)",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Hong Kong"
+      },
+      {
+        "language_code_alpha_2": "zh",
+        "language_code_alpha_3": "zho",
+        "local_short_name": "Xianggang"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "HM",
+    "country_code_alpha_3": "HMD",
+    "name": "Heard-et-Îles MacDonald, Île",
+    "determiner": "l'",
+    "long_name": "ll'Île Heard-et-Îles MacDonald",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Heard Island and McDonald Islands"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "HN",
+    "country_code_alpha_3": "HND",
+    "name": "Honduras",
+    "determiner": "le",
+    "long_name": "la République du Honduras",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Honduras"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "HR",
+    "country_code_alpha_3": "HRV",
+    "name": "Croatie",
+    "determiner": "la",
+    "long_name": "la République de Croatie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "hr",
+        "language_code_alpha_3": "hrv",
+        "local_short_name": "Hrvatska"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "HT",
+    "country_code_alpha_3": "HTI",
+    "name": "Haïti",
+    "determiner": null,
+    "long_name": "la République d'Haïti",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Haïti"
+      },
+      {
+        "language_code_alpha_2": "ht",
+        "language_code_alpha_3": "hat",
+        "local_short_name": "Ayiti"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "HU",
+    "country_code_alpha_3": "HUN",
+    "name": "Hongrie",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "hu",
+        "language_code_alpha_3": "hun",
+        "local_short_name": "Magyarország"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ID",
+    "country_code_alpha_3": "IDN",
+    "name": "Indonésie",
+    "determiner": "l'",
+    "long_name": "la République d'Indonésie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "id",
+        "language_code_alpha_3": "ind",
+        "local_short_name": "Indonesia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IE",
+    "country_code_alpha_3": "IRL",
+    "name": "Irlande",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Ireland"
+      },
+      {
+        "language_code_alpha_2": "ga",
+        "language_code_alpha_3": "gle",
+        "local_short_name": "Éire"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IL",
+    "country_code_alpha_3": "ISR",
+    "name": "Israël",
+    "determiner": null,
+    "long_name": "l'État d'Israël",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Isrā'īl"
+      },
+      {
+        "language_code_alpha_2": "he",
+        "language_code_alpha_3": "heb",
+        "local_short_name": "Yisra'el"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IM",
+    "country_code_alpha_3": "IMN",
+    "name": "Île de Man",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Isle of Man"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IN",
+    "country_code_alpha_3": "IND",
+    "name": "Inde",
+    "determiner": "l'",
+    "long_name": "la République de l'Inde",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "India"
+      },
+      {
+        "language_code_alpha_2": "hi",
+        "language_code_alpha_3": "hin",
+        "local_short_name": "Bhārat"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IO",
+    "country_code_alpha_3": "IOT",
+    "name": "Indien (Territoire britannique de l'océan)",
+    "determiner": "le",
+    "long_name": "le Territoire britannique de l'océan Indien",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "British Indian Ocean Territory (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IQ",
+    "country_code_alpha_3": "IRQ",
+    "name": "Iraq",
+    "determiner": "l'",
+    "long_name": "la République d'Iraq",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al ‘Irāq"
+      },
+      {
+        "language_code_alpha_2": "ku",
+        "language_code_alpha_3": "kur",
+        "local_short_name": "‘Êraq"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IR",
+    "country_code_alpha_3": "IRN",
+    "name": "Iran (République Islamique d')",
+    "determiner": "la",
+    "long_name": "la République islamique d'Iran",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fa",
+        "language_code_alpha_3": "fas",
+        "local_short_name": "Jomhūrī-ye Eslāmī-ye Īrān"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IS",
+    "country_code_alpha_3": "ISL",
+    "name": "Islande",
+    "determiner": "l'",
+    "long_name": "la République d'Islande",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "is",
+        "language_code_alpha_3": "isl",
+        "local_short_name": "Ísland"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "IT",
+    "country_code_alpha_3": "ITA",
+    "name": "Italie",
+    "determiner": "l'",
+    "long_name": "la République italienne",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "it",
+        "language_code_alpha_3": "ita",
+        "local_short_name": "Italia (l')"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "JE",
+    "country_code_alpha_3": "JEY",
+    "name": "Jersey",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Jersey"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Jersey"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "JM",
+    "country_code_alpha_3": "JAM",
+    "name": "Jamaïque",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Jamaica"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "JO",
+    "country_code_alpha_3": "JOR",
+    "name": "Jordanie",
+    "determiner": "la",
+    "long_name": "le Royaume hachémite de Jordanie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Urdun"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "JP",
+    "country_code_alpha_3": "JPN",
+    "name": "Japon",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ja",
+        "language_code_alpha_3": "jpn",
+        "local_short_name": "Nihon/Nippon"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KE",
+    "country_code_alpha_3": "KEN",
+    "name": "Kenya",
+    "determiner": "le",
+    "long_name": "la République du Kenya",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Kenya"
+      },
+      {
+        "language_code_alpha_2": "sw",
+        "language_code_alpha_3": "swa",
+        "local_short_name": "Kenya"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KG",
+    "country_code_alpha_3": "KGZ",
+    "name": "Kirghizistan",
+    "determiner": "le",
+    "long_name": "la République kirghize",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ky",
+        "language_code_alpha_3": "kir",
+        "local_short_name": "Kyrgyzstan"
+      },
+      {
+        "language_code_alpha_2": "ru",
+        "language_code_alpha_3": "rus",
+        "local_short_name": "Kyrgyzstan"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KH",
+    "country_code_alpha_3": "KHM",
+    "name": "Cambodge",
+    "determiner": "le",
+    "long_name": "le Royaume du Cambodge",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "km",
+        "language_code_alpha_3": "khm",
+        "local_short_name": "Kâmpŭchéa"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KI",
+    "country_code_alpha_3": "KIR",
+    "name": "Kiribati",
+    "determiner": null,
+    "long_name": "la République de Kiribati",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Kiribati"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "gil",
+        "local_short_name": "Kiribati"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KM",
+    "country_code_alpha_3": "COM",
+    "name": "Comores",
+    "determiner": "les",
+    "long_name": "l'Union des Comores",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Qamar"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Comores (les)"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "002",
+        "local_short_name": "Komori"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KN",
+    "country_code_alpha_3": "KNA",
+    "name": "Saint-Kitts-et-Nevis",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Saint Kitts and Nevis"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KP",
+    "country_code_alpha_3": "PRK",
+    "name": "Corée (République populaire démocratique de)",
+    "determiner": "la",
+    "long_name": "la République populaire démocratique de Corée",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ko",
+        "language_code_alpha_3": "kor",
+        "local_short_name": "Chosŏn"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KR",
+    "country_code_alpha_3": "KOR",
+    "name": "Corée (République de)",
+    "determiner": "la",
+    "long_name": "la République de Corée",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ko",
+        "language_code_alpha_3": "kor",
+        "local_short_name": "Hanguk"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KW",
+    "country_code_alpha_3": "KWT",
+    "name": "Koweït",
+    "determiner": "le",
+    "long_name": "l'État du Koweït",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Kuwayt"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KY",
+    "country_code_alpha_3": "CYM",
+    "name": "Caïmans, Îles",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Cayman Islands (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "KZ",
+    "country_code_alpha_3": "KAZ",
+    "name": "Kazakhstan",
+    "determiner": "le",
+    "long_name": "la République du Kazakhstan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "kk",
+        "language_code_alpha_3": "kaz",
+        "local_short_name": "Qazaqstan"
+      },
+      {
+        "language_code_alpha_2": "ru",
+        "language_code_alpha_3": "rus",
+        "local_short_name": "Kazahstan"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LA",
+    "country_code_alpha_3": "LAO",
+    "name": "Lao (République démocratique populaire)",
+    "determiner": "la",
+    "long_name": "la République démocratique populaire lao",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "lo",
+        "language_code_alpha_3": "lao",
+        "local_short_name": "Sathalanalat Paxathipatai Paxaxôn Lao"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LB",
+    "country_code_alpha_3": "LBN",
+    "name": "Liban",
+    "determiner": "le",
+    "long_name": "la République libanaise",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Lubnān"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LC",
+    "country_code_alpha_3": "LCA",
+    "name": "Sainte-Lucie",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Saint Lucia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LI",
+    "country_code_alpha_3": "LIE",
+    "name": "Liechtenstein",
+    "determiner": "le",
+    "long_name": "la Principauté du Liechtenstein",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "de",
+        "language_code_alpha_3": "deu",
+        "local_short_name": "Liechtenstein"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LK",
+    "country_code_alpha_3": "LKA",
+    "name": "Sri Lanka",
+    "determiner": null,
+    "long_name": "la République socialiste démocratique du Sri Lanka",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "si",
+        "language_code_alpha_3": "sin",
+        "local_short_name": "Shrī Laṁkā"
+      },
+      {
+        "language_code_alpha_2": "ta",
+        "language_code_alpha_3": "tam",
+        "local_short_name": "Ilaṅkai"
+      },
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Sri Lanka"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LR",
+    "country_code_alpha_3": "LBR",
+    "name": "Libéria",
+    "determiner": "le",
+    "long_name": "la République du Libéria",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Liberia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LS",
+    "country_code_alpha_3": "LSO",
+    "name": "Lesotho",
+    "determiner": "le",
+    "long_name": "le Royaume du Lesotho",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Lesotho"
+      },
+      {
+        "language_code_alpha_2": "st",
+        "language_code_alpha_3": "sot",
+        "local_short_name": "Lesotho"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LT",
+    "country_code_alpha_3": "LTU",
+    "name": "Lituanie",
+    "determiner": "la",
+    "long_name": "la République de Lituanie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "lt",
+        "language_code_alpha_3": "lit",
+        "local_short_name": "Lietuva"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LU",
+    "country_code_alpha_3": "LUX",
+    "name": "Luxembourg",
+    "determiner": "le",
+    "long_name": "le Grand-Duché de Luxembourg",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "de",
+        "language_code_alpha_3": "deu",
+        "local_short_name": "Luxemburg"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Luxembourg (le)"
+      },
+      {
+        "language_code_alpha_2": "lb",
+        "language_code_alpha_3": "ltz",
+        "local_short_name": "Lëtzebuerg"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LV",
+    "country_code_alpha_3": "LVA",
+    "name": "Lettonie",
+    "determiner": "la",
+    "long_name": "la République de Lettonie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "lv",
+        "language_code_alpha_3": "lav",
+        "local_short_name": "Latvija"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "LY",
+    "country_code_alpha_3": "LBY",
+    "name": "Libye",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Lībiyā"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MA",
+    "country_code_alpha_3": "MAR",
+    "name": "Maroc",
+    "determiner": "le",
+    "long_name": "le Royaume du Maroc",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Maghrib"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MC",
+    "country_code_alpha_3": "MCO",
+    "name": "Monaco",
+    "determiner": null,
+    "long_name": "la Principauté de Monaco",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Monaco"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MD",
+    "country_code_alpha_3": "MDA",
+    "name": "Moldova (République de)",
+    "determiner": "la",
+    "long_name": "la République de Moldova",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ro",
+        "language_code_alpha_3": "ron",
+        "local_short_name": "Republica Moldova"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ME",
+    "country_code_alpha_3": "MNE",
+    "name": "Monténégro",
+    "determiner": "le",
+    "long_name": "Monténégro (le)",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "001",
+        "local_short_name": "Crna Gora"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MF",
+    "country_code_alpha_3": "MAF",
+    "name": "Saint-Martin (partie française)",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Saint-Martin (partie française)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MG",
+    "country_code_alpha_3": "MDG",
+    "name": "Madagascar",
+    "determiner": null,
+    "long_name": "la République de Madagascar",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Madagascar"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Madagascar"
+      },
+      {
+        "language_code_alpha_2": "mg",
+        "language_code_alpha_3": "mlg",
+        "local_short_name": "Madagasikara"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MH",
+    "country_code_alpha_3": "MHL",
+    "name": "Marshall, Îles",
+    "determiner": "les",
+    "long_name": "la République des Îles Marshall",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Marshall Islands (the)"
+      },
+      {
+        "language_code_alpha_2": "mh",
+        "language_code_alpha_3": "mah",
+        "local_short_name": "Aelōn̄ in M̧ajeļ"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MK",
+    "country_code_alpha_3": "MKD",
+    "name": "Macédoine (ex-République yougoslave de)",
+    "determiner": "l'",
+    "long_name": "l'ex-République yougoslave de Macédoine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "mk",
+        "language_code_alpha_3": "mkd",
+        "local_short_name": "Poranešna Jugoslovenska Republika Makedonija"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ML",
+    "country_code_alpha_3": "MLI",
+    "name": "Mali",
+    "determiner": "le",
+    "long_name": "la République du Mali",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Mali (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MM",
+    "country_code_alpha_3": "MMR",
+    "name": "Myanmar",
+    "determiner": "le",
+    "long_name": "la République de l'Union du Myanmar",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "my",
+        "language_code_alpha_3": "mya",
+        "local_short_name": "Myanma"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MN",
+    "country_code_alpha_3": "MNG",
+    "name": "Mongolie",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "mn",
+        "language_code_alpha_3": "mon",
+        "local_short_name": "Mongol"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MO",
+    "country_code_alpha_3": "MAC",
+    "name": "Macao",
+    "determiner": null,
+    "long_name": "Macao, Région administrative spéciale de Chine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Macau"
+      },
+      {
+        "language_code_alpha_2": "zh",
+        "language_code_alpha_3": "zho",
+        "local_short_name": "Aomen"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MP",
+    "country_code_alpha_3": "MNP",
+    "name": "Mariannes du Nord, Îles",
+    "determiner": "les",
+    "long_name": "les Îles Mariannes du Nord",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Northern Mariana Islands (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MQ",
+    "country_code_alpha_3": "MTQ",
+    "name": "Martinique",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Martinique (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MR",
+    "country_code_alpha_3": "MRT",
+    "name": "Mauritanie",
+    "determiner": "la",
+    "long_name": "la République islamique de Mauritanie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Mūrītāniyā"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MS",
+    "country_code_alpha_3": "MSR",
+    "name": "Montserrat",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Montserrat"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MT",
+    "country_code_alpha_3": "MLT",
+    "name": "Malte",
+    "determiner": null,
+    "long_name": "la République de Malte",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Malta"
+      },
+      {
+        "language_code_alpha_2": "mt",
+        "language_code_alpha_3": "mlt",
+        "local_short_name": "Malta"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MU",
+    "country_code_alpha_3": "MUS",
+    "name": "Maurice",
+    "determiner": null,
+    "long_name": "la République de Maurice",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Mauritius"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MV",
+    "country_code_alpha_3": "MDV",
+    "name": "Maldives",
+    "determiner": "les",
+    "long_name": "la République des Maldives",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "dv",
+        "language_code_alpha_3": "div",
+        "local_short_name": "Dhivehi Raajje"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MW",
+    "country_code_alpha_3": "MWI",
+    "name": "Malawi",
+    "determiner": "le",
+    "long_name": "la République du Malawi",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Malawi"
+      },
+      {
+        "language_code_alpha_2": "ny",
+        "language_code_alpha_3": "nya",
+        "local_short_name": "Malaŵi"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MX",
+    "country_code_alpha_3": "MEX",
+    "name": "Mexique",
+    "determiner": "le",
+    "long_name": "les États-Unis du Mexique",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "México"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MY",
+    "country_code_alpha_3": "MYS",
+    "name": "Malaisie",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ms",
+        "language_code_alpha_3": "msa",
+        "local_short_name": "Malaysia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "MZ",
+    "country_code_alpha_3": "MOZ",
+    "name": "Mozambique",
+    "determiner": "le",
+    "long_name": "la République du Mozambique",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Moçambique"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NA",
+    "country_code_alpha_3": "NAM",
+    "name": "Namibie",
+    "determiner": "la",
+    "long_name": "la République de Namibie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Namibia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NC",
+    "country_code_alpha_3": "NCL",
+    "name": "Nouvelle-Calédonie",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Nouvelle-Calédonie (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NE",
+    "country_code_alpha_3": "NER",
+    "name": "Niger",
+    "determiner": "le",
+    "long_name": "la République du Niger",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Niger (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NF",
+    "country_code_alpha_3": "NFK",
+    "name": "Norfolk, Île",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Norfolk Island"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NG",
+    "country_code_alpha_3": "NGA",
+    "name": "Nigéria",
+    "determiner": "le",
+    "long_name": "la République fédérale du Nigéria",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Nigeria"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NI",
+    "country_code_alpha_3": "NIC",
+    "name": "Nicaragua",
+    "determiner": "le",
+    "long_name": "la République du Nicaragua",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Nicaragua"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NL",
+    "country_code_alpha_3": "NLD",
+    "name": "Pays-Bas",
+    "determiner": "les",
+    "long_name": "le Royaume des Pays-Bas",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "nl",
+        "language_code_alpha_3": "nld",
+        "local_short_name": "Nederland"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NO",
+    "country_code_alpha_3": "NOR",
+    "name": "Norvège",
+    "determiner": "la",
+    "long_name": "le Royaume de Norvège",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "nb",
+        "language_code_alpha_3": "nob",
+        "local_short_name": "Norge"
+      },
+      {
+        "language_code_alpha_2": "nn",
+        "language_code_alpha_3": "nno",
+        "local_short_name": "Noreg"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NP",
+    "country_code_alpha_3": "NPL",
+    "name": "Népal",
+    "determiner": "le",
+    "long_name": "la République fédérale démocratique du Népal",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ne",
+        "language_code_alpha_3": "nep",
+        "local_short_name": "Nepāl"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NR",
+    "country_code_alpha_3": "NRU",
+    "name": "Nauru",
+    "determiner": null,
+    "long_name": "la République de Nauru",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Nauru"
+      },
+      {
+        "language_code_alpha_2": "na",
+        "language_code_alpha_3": "nau",
+        "local_short_name": "Naoero"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NU",
+    "country_code_alpha_3": "NIU",
+    "name": "Niue",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Niue"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "niu",
+        "local_short_name": "Niue"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "NZ",
+    "country_code_alpha_3": "NZL",
+    "name": "Nouvelle-Zélande",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "New Zealand"
+      },
+      {
+        "language_code_alpha_2": "mi",
+        "language_code_alpha_3": "mri",
+        "local_short_name": "Aotearoa"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "OM",
+    "country_code_alpha_3": "OMN",
+    "name": "Oman",
+    "determiner": null,
+    "long_name": "le Sultanat d'Oman",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "‘Umān"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PA",
+    "country_code_alpha_3": "PAN",
+    "name": "Panama",
+    "determiner": "le",
+    "long_name": "la République du Panama",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Panamá"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PE",
+    "country_code_alpha_3": "PER",
+    "name": "Pérou",
+    "determiner": "le",
+    "long_name": "la République du Pérou",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ay",
+        "language_code_alpha_3": "aym",
+        "local_short_name": "Perú"
+      },
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Perú (el)"
+      },
+      {
+        "language_code_alpha_2": "qu",
+        "language_code_alpha_3": "que",
+        "local_short_name": "Perú"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PF",
+    "country_code_alpha_3": "PYF",
+    "name": "Polynésie française",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Polynésie française (la)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PG",
+    "country_code_alpha_3": "PNG",
+    "name": "Papouasie-Nouvelle-Guinée",
+    "determiner": "la",
+    "long_name": "l'État indépendant de Papouasie-Nouvelle-Guinée",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Papua New Guinea"
+      },
+      {
+        "language_code_alpha_2": "ho",
+        "language_code_alpha_3": "hmo",
+        "local_short_name": "Papuaniugini"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "tpi",
+        "local_short_name": "Papuaniugini"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PH",
+    "country_code_alpha_3": "PHL",
+    "name": "Philippines",
+    "determiner": "les",
+    "long_name": "la République des Philippines",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Philippines (the)"
+      },
+      {
+        "language_code_alpha_2": "tl",
+        "language_code_alpha_3": "tgl",
+        "local_short_name": "Pilipinas"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PK",
+    "country_code_alpha_3": "PAK",
+    "name": "Pakistan",
+    "determiner": "le",
+    "long_name": "la République islamique du Pakistan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Pakistan"
+      },
+      {
+        "language_code_alpha_2": "ur",
+        "language_code_alpha_3": "urd",
+        "local_short_name": "Pākistān"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PL",
+    "country_code_alpha_3": "POL",
+    "name": "Pologne",
+    "determiner": "la",
+    "long_name": "la République de Pologne",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pl",
+        "language_code_alpha_3": "pol",
+        "local_short_name": "Polska"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PM",
+    "country_code_alpha_3": "SPM",
+    "name": "Saint-Pierre-et-Miquelon",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Saint-Pierre-et-Miquelon"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PN",
+    "country_code_alpha_3": "PCN",
+    "name": "Pitcairn",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Pitcairn"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PR",
+    "country_code_alpha_3": "PRI",
+    "name": "Porto Rico",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Puerto Rico"
+      },
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Puerto Rico"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PS",
+    "country_code_alpha_3": "PSE",
+    "name": "Palestine (État de)",
+    "determiner": "l'",
+    "long_name": "l'État de Palestine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Dawlat Filasţīn"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PT",
+    "country_code_alpha_3": "PRT",
+    "name": "Portugal",
+    "determiner": "le",
+    "long_name": "la République portugaise",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Portugal"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PW",
+    "country_code_alpha_3": "PLW",
+    "name": "Palaos",
+    "determiner": "les",
+    "long_name": "la République des Palaos",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Palau"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "pau",
+        "local_short_name": "Belau"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "PY",
+    "country_code_alpha_3": "PRY",
+    "name": "Paraguay",
+    "determiner": "le",
+    "long_name": "la République du Paraguay",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Paraguay (el)"
+      },
+      {
+        "language_code_alpha_2": "gn",
+        "language_code_alpha_3": "grn",
+        "local_short_name": "Paraguay"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "QA",
+    "country_code_alpha_3": "QAT",
+    "name": "Qatar",
+    "determiner": "le",
+    "long_name": "l'État du Qatar",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Qaţar"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "RE",
+    "country_code_alpha_3": "REU",
+    "name": "Réunion (La)",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Réunion (La)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "RO",
+    "country_code_alpha_3": "ROU",
+    "name": "Roumanie",
+    "determiner": "la",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ro",
+        "language_code_alpha_3": "ron",
+        "local_short_name": "România"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "RS",
+    "country_code_alpha_3": "SRB",
+    "name": "Serbie",
+    "determiner": "la",
+    "long_name": "la République de Serbie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "sr",
+        "language_code_alpha_3": "srp",
+        "local_short_name": "Srbija"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "RU",
+    "country_code_alpha_3": "RUS",
+    "name": "Russie (Fédération de)",
+    "determiner": "la",
+    "long_name": "la Fédération de Russie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ru",
+        "language_code_alpha_3": "rus",
+        "local_short_name": "Rossijskaja Federacija"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "RW",
+    "country_code_alpha_3": "RWA",
+    "name": "Rwanda",
+    "determiner": "le",
+    "long_name": "la République du Rwanda",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Rwanda"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Rwanda (le)"
+      },
+      {
+        "language_code_alpha_2": "rw",
+        "language_code_alpha_3": "kin",
+        "local_short_name": "Rwanda"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SA",
+    "country_code_alpha_3": "SAU",
+    "name": "Arabie saoudite",
+    "determiner": "l'",
+    "long_name": "le Royaume d'Arabie saoudite",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "As Su‘ūdīyah"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SB",
+    "country_code_alpha_3": "SLB",
+    "name": "Salomon, Îles",
+    "determiner": "les",
+    "long_name": "les Îles Salomon",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Solomon Islands"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SC",
+    "country_code_alpha_3": "SYC",
+    "name": "Seychelles",
+    "determiner": "les",
+    "long_name": "la République des Seychelles",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Seychelles"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "crs",
+        "local_short_name": "Sesel"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Seychelles (les)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SD",
+    "country_code_alpha_3": "SDN",
+    "name": "Soudan",
+    "determiner": "le",
+    "long_name": "la République du Soudan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "As Sūdān"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SE",
+    "country_code_alpha_3": "SWE",
+    "name": "Suède",
+    "determiner": "la",
+    "long_name": "le Royaume de Suède",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "sv",
+        "language_code_alpha_3": "swe",
+        "local_short_name": "Sverige"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SG",
+    "country_code_alpha_3": "SGP",
+    "name": "Singapour",
+    "determiner": null,
+    "long_name": "la République de Singapour",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Singapore"
+      },
+      {
+        "language_code_alpha_2": "ms",
+        "language_code_alpha_3": "msa",
+        "local_short_name": "Singapura"
+      },
+      {
+        "language_code_alpha_2": "ta",
+        "language_code_alpha_3": "tam",
+        "local_short_name": "Chiṅkappūr"
+      },
+      {
+        "language_code_alpha_2": "zh",
+        "language_code_alpha_3": "zho",
+        "local_short_name": "Xinjiapo"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SH",
+    "country_code_alpha_3": "SHN",
+    "name": "Sainte-Hélène, Ascension et Tristan da Cunha",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Saint Helena, Ascension and Tristan da Cunha"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SI",
+    "country_code_alpha_3": "SVN",
+    "name": "Slovénie",
+    "determiner": "la",
+    "long_name": "la République de Slovénie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "sl",
+        "language_code_alpha_3": "slv",
+        "local_short_name": "Slovenija"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SJ",
+    "country_code_alpha_3": "SJM",
+    "name": "Svalbard et l'Île Jan Mayen",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "nb",
+        "language_code_alpha_3": "nob",
+        "local_short_name": "Svalbard og Jan Mayen"
+      },
+      {
+        "language_code_alpha_2": "nn",
+        "language_code_alpha_3": "nno",
+        "local_short_name": "Svalbard og Jan Mayen"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SK",
+    "country_code_alpha_3": "SVK",
+    "name": "Slovaquie",
+    "determiner": "la",
+    "long_name": "la République slovaque",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "sk",
+        "language_code_alpha_3": "slk",
+        "local_short_name": "Slovensko"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SL",
+    "country_code_alpha_3": "SLE",
+    "name": "Sierra Leone",
+    "determiner": "la",
+    "long_name": "la République de Sierra Leone",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Sierra Leone"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SM",
+    "country_code_alpha_3": "SMR",
+    "name": "Saint-Marin",
+    "determiner": null,
+    "long_name": "la République de Saint-Marin",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "it",
+        "language_code_alpha_3": "ita",
+        "local_short_name": "San Marino"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SN",
+    "country_code_alpha_3": "SEN",
+    "name": "Sénégal",
+    "determiner": "le",
+    "long_name": "la République du Sénégal",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Sénégal (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SO",
+    "country_code_alpha_3": "SOM",
+    "name": "Somalie",
+    "determiner": "la",
+    "long_name": "la République fédérale de Somalie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Aş Şūmāl"
+      },
+      {
+        "language_code_alpha_2": "so",
+        "language_code_alpha_3": "som",
+        "local_short_name": "Soomaaliya"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SR",
+    "country_code_alpha_3": "SUR",
+    "name": "Suriname",
+    "determiner": "le",
+    "long_name": "la République du Suriname",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "nl",
+        "language_code_alpha_3": "nld",
+        "local_short_name": "Suriname"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SS",
+    "country_code_alpha_3": "SSD",
+    "name": "Soudan du Sud",
+    "determiner": "le",
+    "long_name": "la République du Soudan du Sud",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "South Sudan"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ST",
+    "country_code_alpha_3": "STP",
+    "name": "Sao Tomé-et-Principe",
+    "determiner": null,
+    "long_name": "la République démocratique de Sao Tomé-et-Principe",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "São Tomé e Príncipe"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SV",
+    "country_code_alpha_3": "SLV",
+    "name": "El Salvador",
+    "determiner": null,
+    "long_name": "la République d'El Salvador",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "El Salvador"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SX",
+    "country_code_alpha_3": "SXM",
+    "name": "Saint-Martin (partie néerlandaise)",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Sint Maarten (Dutch part)"
+      },
+      {
+        "language_code_alpha_2": "nl",
+        "language_code_alpha_3": "nld",
+        "local_short_name": "Sint Maarten"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SY",
+    "country_code_alpha_3": "SYR",
+    "name": "République arabe syrienne",
+    "determiner": "la",
+    "long_name": "la République arabe syrienne",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Jumhūrīyah al ‘Arabīyah as Sūrīyah"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "SZ",
+    "country_code_alpha_3": "SWZ",
+    "name": "Swaziland",
+    "determiner": "le",
+    "long_name": "le Royaume du Swaziland",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Swaziland"
+      },
+      {
+        "language_code_alpha_2": "ss",
+        "language_code_alpha_3": "ssw",
+        "local_short_name": "eSwatini"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TC",
+    "country_code_alpha_3": "TCA",
+    "name": "Turks-et-Caïcos, Îles",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Turks and Caicos Islands (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TD",
+    "country_code_alpha_3": "TCD",
+    "name": "Tchad",
+    "determiner": "le",
+    "long_name": "la République du Tchad",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Tshād"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Tchad (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TF",
+    "country_code_alpha_3": "ATF",
+    "name": "Terres australes françaises",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Terres australes françaises (les)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TG",
+    "country_code_alpha_3": "TGO",
+    "name": "Togo",
+    "determiner": "le",
+    "long_name": "la République togolaise",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Togo (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TH",
+    "country_code_alpha_3": "THA",
+    "name": "Thaïlande",
+    "determiner": "la",
+    "long_name": "le Royaume de Thaïlande",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "th",
+        "language_code_alpha_3": "tha",
+        "local_short_name": "Prathet Thai"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TJ",
+    "country_code_alpha_3": "TJK",
+    "name": "Tadjikistan",
+    "determiner": "le",
+    "long_name": "la République du Tadjikistan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "tg",
+        "language_code_alpha_3": "tgk",
+        "local_short_name": "Tojikiston"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TK",
+    "country_code_alpha_3": "TKL",
+    "name": "Tokelau",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Tokelau"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "tkl",
+        "local_short_name": "Tokelau"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TL",
+    "country_code_alpha_3": "TLS",
+    "name": "Timor-Leste",
+    "determiner": "le",
+    "long_name": "la République démocratique du Timor-Leste",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "pt",
+        "language_code_alpha_3": "por",
+        "local_short_name": "Timor-Leste"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "tet",
+        "local_short_name": "Timor Lorosa'e"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TM",
+    "country_code_alpha_3": "TKM",
+    "name": "Turkménistan",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "tk",
+        "language_code_alpha_3": "tuk",
+        "local_short_name": "Türkmenistan"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TN",
+    "country_code_alpha_3": "TUN",
+    "name": "Tunisie",
+    "determiner": "la",
+    "long_name": "la République tunisienne",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Tūnis"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TO",
+    "country_code_alpha_3": "TON",
+    "name": "Tonga",
+    "determiner": "les",
+    "long_name": "le Royaume des Tonga",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Tonga"
+      },
+      {
+        "language_code_alpha_2": "to",
+        "language_code_alpha_3": "ton",
+        "local_short_name": "Tonga"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TR",
+    "country_code_alpha_3": "TUR",
+    "name": "Turquie",
+    "determiner": "la",
+    "long_name": "la République turque",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "tr",
+        "language_code_alpha_3": "tur",
+        "local_short_name": "Türkiye"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TT",
+    "country_code_alpha_3": "TTO",
+    "name": "Trinité-et-Tobago",
+    "determiner": "la",
+    "long_name": "la République de Trinité-et-Tobago",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Trinidad and Tobago"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TV",
+    "country_code_alpha_3": "TUV",
+    "name": "Tuvalu",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Tuvalu"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "tvl",
+        "local_short_name": "Tuvalu"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TW",
+    "country_code_alpha_3": "TWN",
+    "name": "Taïwan (Province de Chine)",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "zh",
+        "language_code_alpha_3": "zho",
+        "local_short_name": "Taiwan"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "TZ",
+    "country_code_alpha_3": "TZA",
+    "name": "Tanzanie (République-Unie de)",
+    "determiner": "la",
+    "long_name": "la République-Unie de Tanzanie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Tanzania, United Republic of"
+      },
+      {
+        "language_code_alpha_2": "sw",
+        "language_code_alpha_3": "swa",
+        "local_short_name": "Jamhuri ya Muungano wa Tanzania"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "UA",
+    "country_code_alpha_3": "UKR",
+    "name": "Ukraine",
+    "determiner": "l'",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "uk",
+        "language_code_alpha_3": "ukr",
+        "local_short_name": "Ukraina"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "UG",
+    "country_code_alpha_3": "UGA",
+    "name": "Ouganda",
+    "determiner": "l'",
+    "long_name": "la République d'Ouganda",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Uganda"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "UM",
+    "country_code_alpha_3": "UMI",
+    "name": "Îles mineures éloignées des États-Unis",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "United States Minor Outlying Islands (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "US",
+    "country_code_alpha_3": "USA",
+    "name": "États-Unis d'Amérique",
+    "determiner": "les",
+    "long_name": "les États-Unis d'Amérique",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "United States of America (the)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "UY",
+    "country_code_alpha_3": "URY",
+    "name": "Uruguay",
+    "determiner": "l'",
+    "long_name": "la République orientale de l'Uruguay",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Uruguay (el)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "UZ",
+    "country_code_alpha_3": "UZB",
+    "name": "Ouzbékistan",
+    "determiner": "l'",
+    "long_name": "la République d'Ouzbékistan",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "uz",
+        "language_code_alpha_3": "uzb",
+        "local_short_name": "O‘zbekiston"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "VA",
+    "country_code_alpha_3": "VAT",
+    "name": "Saint-Siège",
+    "determiner": "le",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "it",
+        "language_code_alpha_3": "ita",
+        "local_short_name": "Santa Sede (la)"
+      },
+      {
+        "language_code_alpha_2": "la",
+        "language_code_alpha_3": "lat",
+        "local_short_name": "Sancta Sedes"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "VC",
+    "country_code_alpha_3": "VCT",
+    "name": "Saint-Vincent-et-les Grenadines",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Saint Vincent and the Grenadines"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "VE",
+    "country_code_alpha_3": "VEN",
+    "name": "Venezuela (République bolivarienne du)",
+    "determiner": "la",
+    "long_name": "la République bolivarienne du Venezuela",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "es",
+        "language_code_alpha_3": "spa",
+        "local_short_name": "Venezuela, República Bolivariana de"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "VG",
+    "country_code_alpha_3": "VGB",
+    "name": "Vierges britanniques, Îles",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Virgin Islands (British)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "VI",
+    "country_code_alpha_3": "VIR",
+    "name": "Vierges des États-Unis, Îles",
+    "determiner": "les",
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Virgin Islands (U.S.)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "VN",
+    "country_code_alpha_3": "VNM",
+    "name": "Viet Nam",
+    "determiner": "le",
+    "long_name": "la République socialiste du Viet Nam",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "vi",
+        "language_code_alpha_3": "vie",
+        "local_short_name": "Việt Nam"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "VU",
+    "country_code_alpha_3": "VUT",
+    "name": "Vanuatu",
+    "determiner": "le",
+    "long_name": "la République du Vanuatu",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "bi",
+        "language_code_alpha_3": "bis",
+        "local_short_name": "Vanuatu"
+      },
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Vanuatu"
+      },
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Vanuatu (le)"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "WF",
+    "country_code_alpha_3": "WLF",
+    "name": "Wallis-et-Futuna ",
+    "determiner": null,
+    "long_name": "les Îles Wallis-et-Futuna",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Wallis-et-Futuna "
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "WS",
+    "country_code_alpha_3": "WSM",
+    "name": "Samoa",
+    "determiner": "le",
+    "long_name": "l'État indépendant du Samoa",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Samoa"
+      },
+      {
+        "language_code_alpha_2": "sm",
+        "language_code_alpha_3": "smo",
+        "local_short_name": "Samoa"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "YE",
+    "country_code_alpha_3": "YEM",
+    "name": "Yémen",
+    "determiner": "le",
+    "long_name": "la République du Yémen",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "ar",
+        "language_code_alpha_3": "ara",
+        "local_short_name": "Al Yaman"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "YT",
+    "country_code_alpha_3": "MYT",
+    "name": "Mayotte",
+    "determiner": null,
+    "long_name": null,
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "fr",
+        "language_code_alpha_3": "fra",
+        "local_short_name": "Mayotte"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ZA",
+    "country_code_alpha_3": "ZAF",
+    "name": "Afrique du Sud",
+    "determiner": "l'",
+    "long_name": "la République sud-africaine",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "af",
+        "language_code_alpha_3": "afr",
+        "local_short_name": "Suid-Afrika"
+      },
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "South Africa"
+      },
+      {
+        "language_code_alpha_2": "nr",
+        "language_code_alpha_3": "nbl",
+        "local_short_name": "Sewula Afrika"
+      },
+      {
+        "language_code_alpha_2": null,
+        "language_code_alpha_3": "nso",
+        "local_short_name": "Afrika-Borwa"
+      },
+      {
+        "language_code_alpha_2": "st",
+        "language_code_alpha_3": "sot",
+        "local_short_name": "Afrika-Borwa"
+      },
+      {
+        "language_code_alpha_2": "ss",
+        "language_code_alpha_3": "ssw",
+        "local_short_name": "Ningizimu Afrika"
+      },
+      {
+        "language_code_alpha_2": "ts",
+        "language_code_alpha_3": "tso",
+        "local_short_name": "Afrika-Dzonga"
+      },
+      {
+        "language_code_alpha_2": "tn",
+        "language_code_alpha_3": "tsn",
+        "local_short_name": "Afrika-Borwa"
+      },
+      {
+        "language_code_alpha_2": "ve",
+        "language_code_alpha_3": "ven",
+        "local_short_name": "Afrika Tshipembe"
+      },
+      {
+        "language_code_alpha_2": "xh",
+        "language_code_alpha_3": "xho",
+        "local_short_name": "Mzantsi Afrika"
+      },
+      {
+        "language_code_alpha_2": "zu",
+        "language_code_alpha_3": "zul",
+        "local_short_name": "Ningizimu Afrika"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ZM",
+    "country_code_alpha_3": "ZMB",
+    "name": "Zambie",
+    "determiner": "la",
+    "long_name": "la République de Zambie",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Zambia"
+      }
+    ]
+  },
+  {
+    "country_code_alpha_2": "ZW",
+    "country_code_alpha_3": "ZWE",
+    "name": "Zimbabwe",
+    "determiner": "le",
+    "long_name": "la République du Zimbabwe",
+    "local_short_names": [
+      {
+        "language_code_alpha_2": "en",
+        "language_code_alpha_3": "eng",
+        "local_short_name": "Zimbabwe"
+      }
+    ]
+  }
+]
